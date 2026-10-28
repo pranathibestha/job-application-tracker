@@ -4,7 +4,7 @@ A responsive React web app to track job applications, see response rates, and ge
 
 I built it to organise my own job search: instead of a messy spreadsheet, every application has a status, and the dashboard shows what is working and what needs a follow-up.
 
-**Live demo:** _add your Vercel link here after deploying_
+**Live demo:** [job-application-tracker-nine-omega.vercel.app](https://job-application-tracker-nine-omega.vercel.app)
 
 ![Dashboard](docs/screenshots/dashboard.png)
 
