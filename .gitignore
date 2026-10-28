@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+__pycache__/
+.venv/
+venv/
+
+# Build output
+dist/
+
+# Environment & local data (never commit secrets or databases)
+.env
+*.db
+*.sqlite3
+
+# Editor / OS
+.vscode/
+.DS_Store
